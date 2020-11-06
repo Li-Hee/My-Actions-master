@@ -7,11 +7,6 @@
         <img alt="Author" src="https://img.shields.io/badge/author-BlueSkyClouds-blueviolet"/>
     </a>
 </p>
-
-    
-
-
-
  
 ### 本项目已可以实现自动同步上游更改！  [具体点击](#自动同步)
 
